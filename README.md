@@ -12,7 +12,15 @@ onde venho aprendendo e praticando tecnologias voltadas para o desenvolvimento
 
 ------------------------------------------------------------------------
 
+## 🚀 Tecnologias e Aprendizados
+
+- 💻 Backend: Java, Spring Boot (em aprendizado)
+- 🎨 Frontend: HTML, CSS, JavaScript
+- 🗄️ Banco de Dados: MySQL
+- 🔧 Ferramentas: Git, GitHub
 ## 🌎 Onde me encontrar
+
+------------------------------------------------------------------------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raquelbarcheta/)
 
